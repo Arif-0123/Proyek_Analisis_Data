@@ -1,4 +1,4 @@
-# Bike Sharing Dashboard ✨
+# Air Quality Dashboard ✨
 
 ## Setup environment
 ```
