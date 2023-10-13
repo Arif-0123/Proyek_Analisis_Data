@@ -1,4 +1,4 @@
-# Air Quality Dashboard 💧
+# E-commerce Dashboard 💧
 
 ## Setup environment
 ```
