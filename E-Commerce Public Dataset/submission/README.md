@@ -1,4 +1,4 @@
-# E-commerce Dashboard 💧
+# E-commerce Dashboard 🛒
 
 ## Setup environment
 ```
